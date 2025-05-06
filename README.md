@@ -1,22 +1,22 @@
-Hello! I'm Aditya Mishra, a passionate student currently pursuing a B.Tech in Information Technology from Noida Institute of Engineering and Technology (NIET). 
+Hello! I'm Aditya Mishra, a passionate student pursuing a B.Tech in Information Technology from Noida Institute of Engineering and Technology (NIET). 
 I completed my schooling at Ryan International School, Noida Extension.
 
-About Me -:
-🌱 Currently Learning: Data Structures and Algorithms (DSA) in Java
-💻 Programming Languages: Java, Python
-🎓 Education:
+About Me:
+Currently Learning: Data Structures and Algorithms (DSA) in Java
+Programming Languages: Java, Python
+Education:
 B.Tech in Information Technology from Noida Institute of Engineering and Technology (NIET)
 Ryan International School, Noida Extension
 
-Skills and Interests -:
+Skills and Interests:
 Programming: Java, Python (Intermediate)
 Database Management: Basic knowledge of SQL and DBMS theory
 Operating Systems: Good understanding of OS, including basics, deadlock, CPU scheduling, disk scheduling, etc.
 Interests: Exploring new technologies, contributing to open-source projects, participating in coding challenges
 
 Learning Journey -:
-I am using Java to enhance my Data Structures and Algorithms (DSA) skills.
-I'm Building a strong foundation in Java Programming.
+I use Java to enhance my Data Structures and Algorithms (DSA) skills.
+I'm building a strong foundation in Java Programming.
 
 Future Goals -:
 Dive deeper into advanced Java programming.
