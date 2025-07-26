@@ -1,26 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Aditya | GitHub Profile</title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f4f4f4;
+      background-color: #f9f9f9;
+      color: #2c3e50;
       padding: 40px;
-      color: #222;
       line-height: 1.6;
     }
     h1, h2 {
-      color: #2c3e50;
+      color: #1a202c;
     }
     ul {
-      list-style-type: disc;
       margin-left: 20px;
     }
     a {
-      color: #007acc;
+      color: #0077cc;
       text-decoration: none;
     }
     a:hover {
@@ -46,23 +45,25 @@
 
   <h2>🛠️ Tech Stack</h2>
   <ul>
-    <li><strong>Languages:</strong> Java, SQL</li>
-    <li><strong>Frameworks:</strong> Spring Boot, JPA</li>
-    <li><strong>Tools:</strong> Git, IntelliJ, Postman</li>
-    <li><strong>Databases:</strong> MySQL, H2</li>
+    <li><strong>Languages:</strong> Java, Python, JavaScript, SQL</li>
+    <li><strong>Frameworks:</strong> Spring Boot, Spring MVC</li>
+    <li><strong>ORM/DB:</strong> Hibernate, Spring Data JPA, MySQL, H2, PostgreSQL (Basics)</li>
+    <li><strong>Security & APIs:</strong> REST APIs, JWT, Spring Security, Swagger (OpenAPI)</li>
+    <li><strong>Tools & IDEs:</strong> Git, GitHub, IntelliJ IDEA, VS Code, Postman, Maven, Google Colab, Spyder</li>
   </ul>
 
   <h2>📂 Projects</h2>
   <ul>
-    <li><strong>PrepGenie</strong> – An interview question management system built with Spring Boot and JPA</li>
-    <li><strong>SortViz</strong> – A visualizer that demonstrates sorting algorithms with code implementations in Java, C++, Python, and JavaScript</li>
-    <li><strong>ValidRail</strong> – A tool for validating railway-related data built during internship at CRIS</li>
+    <li><strong><a href="https://github.com/adityamishra1105/PrepGenie" target="_blank">PrepGenie</a></strong> – Interview question management backend using Spring Boot, JPA, Swagger, and MySQL</li>
+    <li><strong><a href="https://algovizsort.netlify.app/" target="_blank">SortViz</a></strong> – Interactive sorting algorithm visualizer with animations and complexity insights</li>
+    <li><strong><a href="https://github.com/adityamishra1105/ValidRail-CLI" target="_blank">ValidRail</a></strong> – Java CLI app simulating railway user validation, integrated with PostgreSQL via JDBC</li>
   </ul>
 
   <h2>📫 Contact</h2>
   <ul>
     <li>Email: <a href="mailto:adityaamishra11@gmail.com">adityaamishra11@gmail.com</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/your-profile">linkedin.com/in/your-profile</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/aditya-mishra-370393257/" target="_blank">linkedin.com/in/aditya-mishra</a></li>
+    <li>GitHub: <a href="https://github.com/adityamishra1105" target="_blank">github.com/adityamishra1105</a></li>
   </ul>
 
 </body>
