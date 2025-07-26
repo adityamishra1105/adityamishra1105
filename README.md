@@ -55,7 +55,8 @@
   <h2>📂 Projects</h2>
   <ul>
     <li><strong>PrepGenie</strong> – An interview question management system built with Spring Boot and JPA</li>
-    <!-- Add more projects or links if needed -->
+    <li><strong>SortViz</strong> – A visualizer that demonstrates sorting algorithms with code implementations in Java, C++, Python, and JavaScript</li>
+    <li><strong>ValidRail</strong> – A tool for validating railway-related data built during internship at CRIS</li>
   </ul>
 
   <h2>📫 Contact</h2>
