@@ -10,7 +10,7 @@ Strong foundation in **problem-solving** and **system design**, with a goal-orie
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, Python, JavaScript, SQL  
+- **Languages:** Java, Python, SQL  
 - **Frameworks:** Spring Boot, Spring MVC  
 - **ORM/DB:** Hibernate, Spring Data JPA, MySQL, H2, PostgreSQL (Basics)  
 - **Security & APIs:** REST APIs, JWT, Spring Security, Swagger (OpenAPI)  
