@@ -8,7 +8,7 @@ Strong foundation in **problem-solving** and **system design**, with a goal-orie
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages:** Java, Python, SQL  
 - **Backend Technologies:**  Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Spring Cloud (Eureka, Gateway), Hibernate, RESTful APIs, Microservices.  
@@ -18,7 +18,7 @@ Strong foundation in **problem-solving** and **system design**, with a goal-orie
 
 ---
 
-## 📂 Projects
+## Projects
 
 - **[ Ride Hail - Microservices Backend API ](https://github.com/adityamishra1105/RideHail)** - Architected a distributed system of 6+ microservices using Spring Cloud for dynamic service discovery and API gateway routing, improving system scalability and fault tolerance.
 - **[PrepGenie](https://github.com/adityamishra1105/PrepGenie)** – Engineered a secure RESTful API with 20+ endpoints using Spring Boot to manage users, coding problems, and submissions, forming the core backend.  
@@ -27,7 +27,7 @@ Strong foundation in **problem-solving** and **system design**, with a goal-orie
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 📧 Email: [adityaamishra11@gmail.com](mailto:adityaamishra11@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/aditya-mishra](https://www.linkedin.com/in/aditya-mishra-370393257/)  
