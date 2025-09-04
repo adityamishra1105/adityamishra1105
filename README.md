@@ -1,4 +1,4 @@
-# Hi, I'm Aditya 👋
+# Hi, I'm Aditya
 
 Focused on mastering **Data Structures and Algorithms in Java**, with practical experience in building scalable backend applications using technologies like **Spring Boot** and **JPA**.
 
@@ -11,18 +11,18 @@ Strong foundation in **problem-solving** and **system design**, with a goal-orie
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, Python, SQL  
-- **Frameworks:** Spring Boot, Spring MVC  
-- **ORM/DB:** Hibernate, Spring Data JPA, MySQL, H2, PostgreSQL (Basics)  
+- **Backend Technologies:**  Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Spring Cloud (Eureka, Gateway), Hibernate, RESTful APIs, Microservices.  
+- **ORM/DB:** MySQL, Redis, PostgreSQL (Basics)   
 - **Security & APIs:** REST APIs, JWT, Spring Security, Swagger (OpenAPI)  
-- **Tools & IDEs:** Git, GitHub, IntelliJ IDEA, VS Code, Postman, Maven, Google Colab, Spyder  
+- **Tools & IDEs:** Postman, Maven, Docker, RabbitMQ, Git, GitHub, Springdoc Open API, IntelliJ IDEA
 
 ---
 
 ## 📂 Projects
 
-- 🔧 **[PrepGenie](https://github.com/adityamishra1105/PrepGenie)** – Interview question management backend using Spring Boot, JPA, Swagger, and MySQL  
-- 📊 **[SortViz](https://algovizsort.netlify.app/)** – Interactive sorting algorithm visualizer with animations and complexity insights  
-- 🚉 **[ValidRail](https://github.com/adityamishra1105/ValidRail-CLI)** – Java CLI app simulating railway user validation, integrated with PostgreSQL via JDBC  
+- **[PrepGenie](https://github.com/adityamishra1105/PrepGenie)** – Engineered a secure RESTful API with 20+ endpoints using Spring Boot to manage users, coding problems, and submissions, forming the core backend.  
+- **[SortViz](https://algovizsort.netlify.app/)** – Interactive sorting algorithm visualizer with animations and complexity insights  
+- **[ValidRail](https://github.com/adityamishra1105/ValidRail-CLI)** – Java CLI app simulating railway user validation, integrated with PostgreSQL via JDBC
 
 ---
 
