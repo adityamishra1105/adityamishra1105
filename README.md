@@ -21,8 +21,8 @@ Strong foundation in **problem-solving** and **system design**, with a goal-orie
 ## Projects
 
 - **[ Ride Hail - Microservices Backend API ](https://github.com/adityamishra1105/RideHail)** - Architected a distributed system of 6+ microservices using Spring Cloud for dynamic service discovery and API gateway routing, improving system scalability and fault tolerance.
-- **[PrepGenie](https://github.com/adityamishra1105/PrepGenie)** – Engineered a secure RESTful API with 20+ endpoints using Spring Boot to manage users, coding problems, and submissions, forming the core backend.  
-- **[SortViz](https://algovizsort.netlify.app/)** – Interactive sorting algorithm visualizer with animations and complexity insights  
+- **[Prep Genie – Backend for Interview Practice Platform](https://github.com/adityamishra1105/PrepGenie)** – Engineered a secure RESTful API with 20+ endpoints using Spring Boot to manage users, coding problems, and submissions, forming the core backend.  
+- **[SortViz - Sorting Algorithm Visualizer](https://algovizsort.netlify.app/)** – Interactive sorting algorithm visualizer with animations and complexity insights  
 - **[ValidRail](https://github.com/adityamishra1105/ValidRail-CLI)** – Java CLI app simulating railway user validation, integrated with PostgreSQL via JDBC
 
 ---
